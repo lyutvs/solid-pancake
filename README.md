@@ -1,7 +1,3 @@
----
-description: Better late than naver 🔥
----
-
 # 👋 Welcome to Titan
 
 
