@@ -4,9 +4,9 @@ description: Better late than naver 🔥
 
 # 👋 Welcome to Titan
 
-{% hint style="info" %}
-**개발 지식에 대한 모든걸 정리하려 합니다.**
-{% endhint %}
+
+| **개발 지식에 대한 모든걸 정리하려 합니다.**
+
 
 ### :sunglasses: Contact
 
